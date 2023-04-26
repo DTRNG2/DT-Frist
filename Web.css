@@ -1,0 +1,84 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+  
+header {
+    background-color: rgb(19, 32, 145);
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 1em
+    
+}
+.sanpham {
+    background-color: black;
+}
+
+.content {
+    width: 800px;
+    margin: 0 auto;
+}
+
+h3 {
+    color: blue;
+    border-bottom: 1px solid blue;
+    display: inline-block;
+} 
+table {
+    width: 100%;
+    border-collapse: collapse;
+    margin-bottom: 20px;
+    
+
+}
+.table-container {
+    float: left;
+}
+h2 {
+    color: black;
+    border-bottom: 1px solid black;
+}
+h4 {
+    color: blue;
+}
+
+.address {
+    text-align: center;
+    background-color: rgb(183, 177, 171);
+}
+  
+
+
+.menu{
+    background-color: rgb(31, 56, 221);
+}
+.menu ul{
+    list-style: none;
+    margin: 0;
+    display: flex;
+}
+.menu ul li{
+    display: inline-block;            
+    padding: 5px 10px;            
+}
+.menu ul li a{
+    color: white;
+    text-transform: uppercase;
+    text-decoration: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
